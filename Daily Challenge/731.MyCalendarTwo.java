@@ -1,5 +1,7 @@
 // 731. My Calendar II
 
+// Date: 27/09/2024
+
 // You are implementing a program to use as your calendar. We can add a new event if adding the event will not cause a triple booking.
 
 // A triple booking happens when three events have some non-empty intersection (i.e., some moment is common to all the three events.).

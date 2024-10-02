@@ -1,5 +1,7 @@
 // 1381. Design a Stack With Increment Operation
 
+// Date: 30/09/2024
+
 // Design a stack that supports increment operations on its elements.
 
 // Implement the CustomStack class:
